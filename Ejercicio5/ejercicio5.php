@@ -13,7 +13,6 @@
  $conversion = round($acres*($hectarea/2.4711),2);
 
  echo $acres . " acres son " . $conversion . " hectareas."; 
-
 ?>
 
 
